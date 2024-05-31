@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my mental**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, CloudSec, DevOPs**
+- 🌱 I’m currently learning **HTML, CSS, JS, CloudSec, DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
