@@ -163,25 +163,25 @@ Decision support system for sports venue selection
 ---
 
 ### Current Focus
-
+```
 const currentFocus = {
 project: {
     name: "Telesales Scoring Project",
     type: "Asah by Dicoding Capstone",
-    status: "In Development 🚧"
+    status: "In Development"
 },
 stack: {
-    backend: ["Node.js", "Prisma ORM", "PostgreSQL"],
-    security: ["JWT Authentication", "RBAC"],
+    backend: ["Express.JS", "React.JS", "Prisma ORM", "PostgreSQL"],
+    security: ["JWT Authentication", "2FA", "RBAC"],
     devops: ["Docker", "CI/CD Pipelines", "Cloud Deployment"]
 },
 roadmap: {
-    now: "🎯 Mastering cloud-native architectures",
-    future: "🚀 Becoming a Senior Full-Stack & DevOps Engineer"
+    now: "Mastering cloud-native architectures",
+    future: "Becoming a Senior Full-Stack & DevOps Engineer"
 },
-philosophy: "☁️ I believe everything will be on cloud in the end"
+philosophy: "I believe everything will be on cloud in the end"
 };
-
+```
 
 ---
 
