@@ -163,7 +163,7 @@ Decision support system for sports venue selection
 ---
 
 ### Current Focus
-```
+```JSON
 const currentFocus = {
 project: {
     name: "Telesales Scoring Project",
