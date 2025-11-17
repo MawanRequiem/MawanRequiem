@@ -1,10 +1,10 @@
-</div><div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Dharmawan+Surya+Kusuma+👋;Full-Stack+Developer+%7C+Cloud+%26+DevOps+Enthusiast;Building+Solutions%2C+One+Commit+at+a+Time+🚀" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4A9EFF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Dharmawan+Surya+Kusuma;Full-Stack+Developer+%7C+Cloud+%26+DevOps+Enthusiast;Building+Solutions%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=MawanRequiem&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/MawanRequiem)
+  [![Profile Views](https://komarev.com/ghpvc/?username=MawanRequiem&color=4A9EFF&style=flat-square&label=Profile+Views)](https://github.com/MawanRequiem)
   [![GitHub followers](https://img.shields.io/github/followers/MawanRequiem?label=Followers&style=social)](https://github.com/MawanRequiem?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/MawanRequiem?label=Stars&style=social)](https://github.com/MawanRequiem)
   
@@ -75,13 +75,16 @@ Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MawanRequiem&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MawanRequiem&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MawanRequiem&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MawanRequiem&theme=cobalt&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=4A9EFF&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MawanRequiem&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MawanRequiem&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MawanRequiem&theme=cobalt&hide_border=true&background=0d1117&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MawanRequiem&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=4A9EFF&line=4A9EFF&point=ffffff" alt="Contribution Graph" />
 </div>
 
 ---
