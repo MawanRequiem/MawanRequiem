@@ -14,22 +14,25 @@
 
 ### About Me
 
-name: Dharmawan Surya Kusuma
-located_in: Indonesia 🇮🇩
-current_focus: Building scalable web applications & exploring cloud architecture
-learning: React, Cloud Security, DevOps
-interests: [Backend Development, Cloud Computing, DevOps]
-fun_fact: I don't like laravel
+Hi! I'm **Dharmawan Surya Kusuma**, a backend developer from Indonesia specializing in building scalable web applications and cloud infrastructure.
 
-- 🔭 Currently working on **Telesales Scoring Project - Asah by Dicoding Capstone Project** with **ReactJS** and **ExpressJS** with **Prisma ORM**
-- 🌱 Learning **CloudSec**, **DevOps automation**, and **PostgreSQL optimization**
-- 💼 Experienced with **Web Development**, **Mobile Development**, **Cloud Platform**,
-- 🎯 Goal: Mastering cloud-native architectures and microservices
-- 📫 Reach me via my GitHub profile or connect on social platforms below
-- ⚡ Passionate about clean code, type-safety, and production-ready systems
+Location: Indonesia
+Focus: Backend Development & Cloud Architecture
+Learning: React - Cloud Security - DevOps
+Specialties: Web Development - Cloud Computing - Database Design
+Philosophy: Laravel HOEEKKK
 
----
+#### Currently Working On
+Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL - implementing authentication, admin management, and production-ready security features.
 
+#### Currently Learning
+**React.js** for modern frontend development, **Cloud Security** best practices, and **DevOps automation** with CI/CD pipelines.
+
+#### 🚀nterests & Expertise
+- **Backend Development**: Node.js, Express, Prisma ORM, RESTful APIs
+- **Cloud Computing**: AWS, Google Cloud, cloud-native architectures
+- **DevOps**: Docker, CI/CD, infrastructure automation, deployment strategies
+- **Databases**: PostgreSQL optimization, query performance, schema design
 ### Tech Stack
 
 <div align="center">
