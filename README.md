@@ -21,10 +21,6 @@ learning: React, Cloud Security, DevOps
 interests: [Backend Development, Cloud Computing, DevOps]
 fun_fact: I don't like laravel
 
-text
-
-<img align="top" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 - 🔭 Currently working on **Telesales Scoring Project - Asah by Dicoding Capstone Project** with **ReactJS** and **ExpressJS** with **Prisma ORM**
 - 🌱 Learning **CloudSec**, **DevOps automation**, and **PostgreSQL optimization**
 - 💼 Experienced with **Web Development**, **Mobile Development**, **Cloud Platform**,
