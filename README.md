@@ -199,7 +199,6 @@ const currentFocus = {
 ---
 
 <div align="center">
-
 <svg width="100%" height="220" viewBox="0 0 1000 220" preserveAspectRatio="none">
   <defs>
     <linearGradient id="gradNight" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -229,9 +228,7 @@ const currentFocus = {
       }
     </style>
   </defs>
-
   <rect width="100%" height="220" fill="url(#gradNight)" />
-
   <g fill="white" filter="url(#glowStar)">
     <g class="twinkle">
       <path d="M5 0 L7 5 L12 7 L7 9 L5 14 L3 9 L-2 7 L3 5 Z" transform="translate(150,60) scale(1.2)"/>
@@ -245,12 +242,9 @@ const currentFocus = {
       <path d="M5 0 L7 5 L12 7 L7 9 L5 14 L3 9 L-2 7 L3 5 Z" transform="translate(900,70) scale(1.6)"/>
     </g>
   </g>
-
   <path d="M0 160 Q250 110 500 150 T1000 140 V220 H0 Z" fill="#0a1a45" opacity="0.9"/>
   <path d="M0 190 Q300 130 600 170 T1000 165 V220 H0 Z" fill="#0f204d" opacity="1"/>
 </svg>
-
-
 <div style="
     padding: 25px;
     margin: 20px auto;
@@ -258,16 +252,12 @@ const currentFocus = {
     border-radius: 15px;
     background: rgba(255,255,255,0.06);
     border: 1px solid rgba(255,255,255,0.15);
-    backdrop-filter: blur(10px);
-">
+    backdrop-filter: blur(10px);">
   <h2 style="color:#e4ecff; margin: 0 0 10px 0;">⭐ Thanks for Visiting ⭐</h2>
   <p style="color:#cddaff; margin:0;">May your journey through my repositories be bright and inspiring.</p>
 </div>
-
-
 <svg width="100%" height="220" viewBox="0 0 1000 220" preserveAspectRatio="none">
   <rect width="100%" height="220" fill="url(#gradNight)" />
-
   <g fill="white" filter="url(#glowStar)">
     <g class="twinkle">
       <path d="M5 0 L7 5 L12 7 L7 9 L5 14 L3 9 L-2 7 L3 5 Z" transform="translate(200,120) scale(1.1)"/>
@@ -280,16 +270,10 @@ const currentFocus = {
       <path d="M5 0 L7 5 L12 7 L7 9 L5 14 L3 9 L-2 7 L3 5 Z" transform="translate(900,100) scale(1.7)"/>
     </g>
   </g>
-
   <path d="M0 70 Q250 40 500 60 T1000 55 V0 H0 Z" fill="#0a1a45" opacity="0.9"/>
   <path d="M0 40 Q300 10 600 30 T1000 20 V0 H0 Z" fill="#0f204d" opacity="1"/>
 </svg>
-
 </div>
-
-
 <br>
-
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-
 </div>
