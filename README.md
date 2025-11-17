@@ -111,32 +111,75 @@ Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL
 
 </div>
 
-#### Project Highlights
+### Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **DynamicBookstore-JSP** | Full-stack bookstore with admin panel & shopping cart | Java, JSP, Servlets, MySQL |
-| **Intraone** | ISP subscription management system | Web Development, MySQL |
-| **Intraone-Flutter** | Cross-platform mobile app for ISP clients | Flutter, Dart, REST API |
-| **SPK-Pemilihan-GOR** | Decision support system for sports venue selection | Google Maps API, DIA Algorithm |
-| **Lead-Banking-Sales-Prediction** | Banking sales prediction using ML | Data Analytics, Machine Learning |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Dynamic Bookstore using JSP
+Full-stack bookstore with admin panel & shopping cart
+
+**Tech:** `Java` `JSP` `Servlets` `MySQL`
+
+[View Repository →](https://github.com/MawanRequiem/DynamicBookstore-JSP)
+
+</td>
+<td width="50%" valign="top">
+
+#### Intraone ISP
+ISP subscription management system
+
+**Tech:** `Web Development` `Firebase Realtime Database` `Google Cloud Platform`
+
+[View Repository →](https://github.com/MawanRequiem/Intraone)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Intraone Flutter Mobile App
+Intraone ISP mobile application, connected with REST API using ExpressJS
+
+**Tech:** `Flutter` `Dart` `REST API` `Express.JS`
+
+[View Repository →](https://github.com/MawanRequiem/Intraone-Flutter)
+
+</td>
+<td width="50%" valign="top">
+
+#### Badminton Venue Decision Support System
+Decision support system for sports venue selection
+
+**Tech:** `Google Maps API` `Vue.JS` `Express.JS` `Cloud Deployment`
+
+[View Repository →](https://github.com/MawanRequiem/SPK-Pemilihan-GOR)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Current Focus
 
-const dharmawan = {
-currentProject: "Telesales Scoring Project - Asah by Dicoding Capstone Project",
-technologies: {
-backend: ["Node.js", "Prisma ORM", "PostgreSQL"],
-security: ["JWT Authentication", "Role-based Access Control"],
-devops: ["Docker", "CI/CD", "Cloud Deployment"]
+const currentFocus = {
+project: {
+    name: "Telesales Scoring Project",
+    type: "Asah by Dicoding Capstone",
+    status: "In Development 🚧"
 },
-goals: {
-shortTerm: "Master cloud-native architectures",
-longTerm: "Become a Senior Full-Stack & DevOps Engineer"
+stack: {
+    backend: ["Node.js", "Prisma ORM", "PostgreSQL"],
+    security: ["JWT Authentication", "RBAC"],
+    devops: ["Docker", "CI/CD Pipelines", "Cloud Deployment"]
 },
-funFact: "I believe in everything will be on cloud in the end"
+roadmap: {
+    now: "🎯 Mastering cloud-native architectures",
+    future: "🚀 Becoming a Senior Full-Stack & DevOps Engineer"
+},
+philosophy: "☁️ I believe everything will be on cloud in the end"
 };
 
 
