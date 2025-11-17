@@ -206,7 +206,6 @@ const currentFocus = {
       <stop offset="0%" stop-color="#0d1b3d" />
       <stop offset="100%" stop-color="#102a6d" />
     </linearGradient>
-
     <filter id="glowStar">
       <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feMerge>
@@ -214,7 +213,6 @@ const currentFocus = {
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-
     <style>
       @keyframes twinkle {
         0%, 100% { opacity: 0.25; }
