@@ -94,19 +94,19 @@ Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL
 <div align="center">
 
 <a href="https://github.com/MawanRequiem/DynamicBookstore-JSP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=DynamicBookstore-JSP&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=DynamicBookstore-JSP&hide_border=true&bg_color=0d1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/MawanRequiem/Intraone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=Intraone&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=Intraone&hide_border=true&bg_color=0d1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/MawanRequiem/Intraone-Flutter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=Intraone-Flutter&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=Intraone-Flutter&hide_border=true&bg_color=0d1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/MawanRequiem/SPK-Pemilihan-GOR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=SPK-Pemilihan-GOR&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=SPK-Pemilihan-GOR&hide_border=true&bg_color=0d1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=c9d1d9" />
 </a>
 
 </div>
