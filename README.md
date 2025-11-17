@@ -163,25 +163,23 @@ Decision support system for sports venue selection
 ---
 
 ### Current Focus
-```JSON
-const currentFocus = {
-project: {
-    name: "Telesales Scoring Project",
-    type: "Asah by Dicoding Capstone",
-    status: "In Development"
-},
-stack: {
-    backend: ["Express.JS", "React.JS", "Prisma ORM", "PostgreSQL"],
-    security: ["JWT Authentication", "2FA", "RBAC"],
-    devops: ["Docker", "CI/CD Pipelines", "Cloud Deployment"]
-},
-roadmap: {
-    now: "Mastering cloud-native architectures",
-    future: "Becoming a Senior Full-Stack & DevOps Engineer"
-},
-philosophy: "I believe everything will be on cloud in the end"
-};
-```
+{
+  "project": {
+    "name": "Telesales Scoring Project",
+    "type": "Asah by Dicoding Capstone",
+    "status": "In Development"
+  },
+  "stack": {
+    "backend": ["Express.JS", "React.JS", "Prisma ORM", "PostgreSQL"],
+    "security": ["JWT Authentication", "2FA", "RBAC"],
+    "devops": ["Docker", "CI/CD Pipelines", "Cloud Deployment"]
+  },
+  "roadmap": {
+    "now": "Mastering cloud-native architectures",
+    "future": "Becoming a Senior Full-Stack & DevOps Engineer"
+  },
+  "philosophy": "I believe everything will be on cloud in the end"
+}
 
 ---
 
