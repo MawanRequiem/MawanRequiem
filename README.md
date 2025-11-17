@@ -200,13 +200,25 @@ const currentFocus = {
 
 <div align="center">
 
----
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<br>
 
+<div style="
+    padding: 20px 30px; 
+    margin: 20px auto; 
+    width: 70%; 
+    border-radius: 15px; 
+    backdrop-filter: blur(10px);
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.15);
+">
+    <h3>🌟 Thanks for visiting my GitHub profile!</h3>
+    <p>Feel free to explore, fork, and reach out always happy to connect!</p>
+</div>
 
-*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out!* 
+<br>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
 
 </div>
