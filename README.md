@@ -204,18 +204,7 @@ const currentFocus = {
 
 <br>
 
-<div style="
-    padding: 20px 30px; 
-    margin: 20px auto; 
-    width: 70%; 
-    border-radius: 15px; 
-    backdrop-filter: blur(10px);
-    background: rgba(255,255,255,0.08);
-    border: 1px solid rgba(255,255,255,0.15);
-">
-    <h3>🌟 Thanks for visiting my GitHub profile!</h3>
-    <p>Feel free to explore, fork, and reach out always happy to connect!</p>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=36BCF7&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+GitHub!;Feel+free+to+explore+my+projects!;Let's+build+something+awesome+together." />
 
 <br>
 
