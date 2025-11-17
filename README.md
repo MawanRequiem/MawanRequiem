@@ -47,7 +47,7 @@ Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL
 #### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React.JS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
@@ -152,10 +152,6 @@ funFact: "I believe in everything will be on cloud in the end"
 ---
 
 <div align="center">
-
-### Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/MawanRequiem/MawanRequiem/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
