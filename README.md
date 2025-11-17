@@ -28,7 +28,7 @@ Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL
 #### Currently Learning
 **React.js** for modern frontend development, **Cloud Security** best practices, and **DevOps automation** with CI/CD pipelines.
 
-#### 🚀nterests & Expertise
+#### Interests & Expertise
 - **Backend Development**: Node.js, Express, Prisma ORM, RESTful APIs
 - **Cloud Computing**: AWS, Google Cloud, cloud-native architectures
 - **DevOps**: Docker, CI/CD, infrastructure automation, deployment strategies
