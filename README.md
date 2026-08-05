@@ -81,7 +81,7 @@ Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MawanRequiem&theme=cobalt&hide_border=true&background=1e1b4b&ring=818CF8&fire=FDE047&currStreakLabel=FDE047" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">

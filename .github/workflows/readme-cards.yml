@@ -17,3 +17,16 @@ jobs:
           theme: tokyonight
           stats_options: "show_icons=true&hide_border=true&bg_color=1e1b4b&title_color=818CF8&icon_color=FDE047&text_color=ffffff"
           top_langs_options: "layout=compact&hide_border=true&bg_color=1e1b4b&title_color=818CF8&text_color=ffffff"
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=MawanRequiem&theme=cobalt&hide_border=true&background=1e1b4b&ring=818CF8&fire=FDE047&currStreakLabel=FDE047&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.STATS_PAT }}
+      - name: Commit streak stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
