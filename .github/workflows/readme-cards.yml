@@ -13,7 +13,7 @@ jobs:
       - uses: Joydeep2005Banik/readme-stats-cards@v1
         with:
           username: MawanRequiem
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_PAT }}
           theme: tokyonight
           stats_options: "show_icons=true&hide_border=true&bg_color=1e1b4b&title_color=818CF8&icon_color=FDE047&text_color=ffffff"
           top_langs_options: "layout=compact&hide_border=true&bg_color=1e1b4b&title_color=818CF8&text_color=ffffff"
