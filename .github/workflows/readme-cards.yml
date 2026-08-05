@@ -1,0 +1,19 @@
+name: Update README cards
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Joydeep2005Banik/readme-stats-cards@v1
+        with:
+          username: MawanRequiem
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
+          stats_options: "show_icons=true&hide_border=true&bg_color=1e1b4b&title_color=818CF8&icon_color=FDE047&text_color=ffffff"
+          top_langs_options: "layout=compact&hide_border=true&bg_color=1e1b4b&title_color=818CF8&text_color=ffffff"

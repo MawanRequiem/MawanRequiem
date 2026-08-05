@@ -1,40 +1,41 @@
 <div align="center">
-  <img src="assets/star-hero.svg" width="100%" alt="Indigo night sky with twinkling stars and a shooting star" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=818CF8&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Dharmawan+Surya+Kusuma;Full-Stack+Developer+%7C+Cloud+%26+DevOps+Enthusiast;Building+Solutions%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="assets/star-hero.svg" width="100%" alt="Deep navy night sky with twinkling stars and a shooting star" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=818CF8&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Dharmawan+Surya+Kusuma;Full-Stack+Developer+%7C+Cloud+%26+DevOps+Enthusiast;Building+Solutions%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=MawanRequiem&color=818CF8&style=flat-square&label=Profile+Views)](https://github.com/MawanRequiem)
-  [![GitHub followers](https://img.shields.io/github/followers/MawanRequiem?label=Followers&style=social)](https://github.com/MawanRequiem?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/MawanRequiem?label=Stars&style=social)](https://github.com/MawanRequiem)
-  
-</div>
+<p align="center">
+  <a href="https://github.com/MawanRequiem"><img src="https://komarev.com/ghpvc/?username=MawanRequiem&color=818CF8&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
+  <a href="https://github.com/MawanRequiem?tab=followers"><img src="https://img.shields.io/github/followers/MawanRequiem?label=Followers&style=social" alt="GitHub followers" /></a>
+  <a href="https://github.com/MawanRequiem"><img src="https://img.shields.io/github/stars/MawanRequiem?label=Stars&style=social" alt="GitHub stars" /></a>
+</p>
 
 ---
 
-### About Me
+### 👋 About Me
 
 Hi! I'm **Dharmawan Surya Kusuma**, a backend developer from Indonesia specializing in building scalable web applications and cloud infrastructure.
 
-Location: Indonesia
-Focus: Backend Development & Cloud Architecture
-Learning: React - Cloud Security - DevOps
-Specialties: Web Development - Cloud Computing - Database Design
-Philosophy: Laravel HOEEKKK
+- **Location:** Indonesia
+- **Focus:** Backend Development & Cloud Architecture
+- **Learning:** React - Cloud Security - DevOps
+- **Specialties:** Web Development - Cloud Computing - Database Design
+- **Philosophy:** Laravel HOEEKKK
 
-#### Currently Working On
+#### 🔭 Currently Working On
 Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL - implementing authentication, admin management, and production-ready security features.
 
-#### Currently Learning
+#### 🌱 Currently Learning
 **React.js** for modern frontend development, **Cloud Security** best practices, and **DevOps automation** with CI/CD pipelines.
 
-#### Interests & Expertise
+#### 🎯 Interests & Expertise
 - **Backend Development**: Node.js, Express, Prisma ORM, RESTful APIs
 - **Cloud Computing**: AWS, Google Cloud, cloud-native architectures
 - **DevOps**: Docker, CI/CD, infrastructure automation, deployment strategies
 - **Databases**: PostgreSQL optimization, query performance, schema design
-### Tech Stack
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -51,7 +52,6 @@ Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL
 ![React.JS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -73,15 +73,15 @@ Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MawanRequiem&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&bg_color=1e1b4b&title_color=818CF8&icon_color=FDE047&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MawanRequiem&theme=cobalt&hide_border=true&layout=compact&langs_count=10&bg_color=1e1b4b&title_color=818CF8&text_color=ffffff"/>
+  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MawanRequiem&theme=cobalt&hide_border=true&background=1e1b4b&ring=818CF8&fire=FDE047&currStreakLabel=FDE047" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MawanRequiem&theme=cobalt&hide_border=true&background=1e1b4b&ring=818CF8&fire=FDE047&currStreakLabel=FDE047" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -90,29 +90,7 @@ Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL
 
 ---
 
-### Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/MawanRequiem/DynamicBookstore-JSP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=DynamicBookstore-JSP&hide_border=true&bg_color=1e1b4b&title_color=818CF8&icon_color=FDE047&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/MawanRequiem/Intraone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=Intraone&hide_border=true&bg_color=1e1b4b&title_color=818CF8&icon_color=FDE047&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/MawanRequiem/Intraone-Flutter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=Intraone-Flutter&hide_border=true&bg_color=1e1b4b&title_color=818CF8&icon_color=FDE047&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/MawanRequiem/SPK-Pemilihan-GOR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MawanRequiem&repo=SPK-Pemilihan-GOR&hide_border=true&bg_color=1e1b4b&title_color=818CF8&icon_color=FDE047&text_color=c9d1d9" />
-</a>
-
-</div>
-
-### Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
@@ -163,7 +141,7 @@ Decision support system for sports venue selection
 
 ---
 
-### Current Focus
+### 🎯 Current Focus
 
 ```js
 const currentFocus = {
@@ -187,10 +165,10 @@ const currentFocus = {
 
 ---
 
-### Connect With Me
+### 📫 Connect With Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmawan-surya-kusuma/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](maone.site)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharmawan1209@gmail.com)
@@ -200,7 +178,7 @@ const currentFocus = {
 ---
 
 <div align="center">
-  <img src="assets/star-hero.svg" width="100%" alt="Indigo night sky with twinkling stars and a shooting star" />
+  <img src="assets/star-hero.svg" width="100%" alt="Deep navy night sky with twinkling stars and a shooting star" />
   <div style="padding: 25px; margin: 20px auto; width: 70%; border-radius: 15px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.15); backdrop-filter: blur(10px);">
     <h2 style="color:#e4ecff; margin: 0 0 10px 0;">⭐ Thanks for Visiting ⭐</h2>
     <p style="color:#cddaff; margin:0;">May your journey through my repositories be bright and inspiring.</p>
