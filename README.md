@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/star-hero.svg" width="100%" alt="Deep navy night sky with twinkling stars and a shooting star" />
+  <img src="assets/star-hero.svg" width="100%" alt="Deep navy night sky with 4-pointed twinkling stars, a big yellow star, and shooting stars" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=818CF8&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Dharmawan+Surya+Kusuma;Full-Stack+Developer+%7C+Cloud+%26+DevOps+Enthusiast;Building+Solutions%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </div>
 
@@ -26,12 +26,6 @@ Building a **telesales backend system** with Node.js, Prisma ORM, and PostgreSQL
 
 #### 🌱 Currently Learning
 **React.js** for modern frontend development, **Cloud Security** best practices, and **DevOps automation** with CI/CD pipelines.
-
-#### 🎯 Interests & Expertise
-- **Backend Development**: Node.js, Express, Prisma ORM, RESTful APIs
-- **Cloud Computing**: AWS, Google Cloud, cloud-native architectures
-- **DevOps**: Docker, CI/CD, infrastructure automation, deployment strategies
-- **Databases**: PostgreSQL optimization, query performance, schema design
 
 ---
 
@@ -141,30 +135,6 @@ Decision support system for sports venue selection
 
 ---
 
-### 🎯 Current Focus
-
-```js
-const currentFocus = {
-  project: {
-    name: "Telesales Scoring Project",
-    type: "Asah by Dicoding Capstone",
-    status: "In Development"
-  },
-  stack: {
-    backend: ["Express.JS", "React.JS", "Prisma ORM", "PostgreSQL"],
-    security: ["JWT Authentication", "2FA", "RBAC"],
-    devops: ["Docker", "CI/CD Pipelines", "Cloud Deployment"]
-  },
-  roadmap: {
-    now: "Mastering cloud-native architectures",
-    future: "Becoming a Senior Full-Stack & DevOps Engineer"
-  },
-  philosophy: "I believe everything will be on cloud in the end"
-};
-```
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
@@ -177,11 +147,6 @@ const currentFocus = {
 
 ---
 
-<div align="center">
-  <img src="assets/star-hero.svg" width="100%" alt="Deep navy night sky with twinkling stars and a shooting star" />
-  <div style="padding: 25px; margin: 20px auto; width: 70%; border-radius: 15px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.15); backdrop-filter: blur(10px);">
-    <h2 style="color:#e4ecff; margin: 0 0 10px 0;">⭐ Thanks for Visiting ⭐</h2>
-    <p style="color:#cddaff; margin:0;">May your journey through my repositories be bright and inspiring.</p>
-  </div>
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-</div>
+<p align="center">
+  <img src="assets/star-hero.svg" width="100%" alt="Deep navy night sky with 4-pointed twinkling stars, a big yellow star, and shooting stars" />
+</p>
