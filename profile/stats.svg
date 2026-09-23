@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dharmawan Surya Kusuma's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 11, Total Commits  (last year) : 482, Total PRs: 43, Total Issues: 35, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 11, Total Commits  (last year) : 482, Total PRs: 46, Total Issues: 38, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 149.3341290174574;
+        stroke-dashoffset: 147.2905473328993;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >43</text>
+      >46</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >35</text>
+      >38</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
